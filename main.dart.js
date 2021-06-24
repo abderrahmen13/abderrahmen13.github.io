@@ -29831,7 +29831,7 @@ k=P.at(k,!0,H.D(k).j("i.E"))
 m=new P.Um()
 m.Fx(s.r)
 C.b.uY(k,m)
-return new M.pS(M.j9(r,new T.uK(C.W,C.i3,C.er,C.dR,r,C.f4,r,H.c([n,l,T.YR(k,C.cB,C.eq)],o),r),r,new S.fB(r,new X.v0(new L.nn("classroom.webp"),new H.qT(p,C.cq),C.fH),r,r,r,r,C.a0),r,r,r,r),q,r)},
+return new M.pS(M.j9(r,new T.uK(C.W,C.i3,C.er,C.dR,r,C.f4,r,H.c([n,l,T.YR(k,C.cB,C.eq)],o),r),r,new S.fB(r,new X.v0(new L.nn("classroom.jpg"),new H.qT(p,C.cq),C.fH),r,r,r,r,C.a0),r,r,r,r),q,r)},
 G7:function(a){return new B.l0(new N.SS(this,a),new N.ST(a),new N.SU(this,a),new N.SV(this),null,t.tC)}}
 N.SY.prototype={
 $0:function(){var s=this.a
